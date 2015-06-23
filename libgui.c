@@ -4,7 +4,7 @@
 ** Um conjunto de funções auxiliares destinadas a criação de controles **
 ** personalizados utilizando a WinAPI.                                 **
 **                                                                     **
-** Autor: Dennis / https://github.com/DennisAnsiC/                     **
+** Autor: Constantine / https://github.com/jessesilva                  **
 **                                                                     **
 ** ******************************************************************* */
 
