@@ -7,7 +7,7 @@
 _LIBGUI_CONFIGS_		/* LibGUI Config's */
 
 /* Configs */
-#define TITULO			"LibGUI - By Dennis - https://github.com/DennisAnsiC/"
+#define TITULO			"LibGUI - By Constantine - https://github.com/jessesilva/"
 #define LARGURA			648
 #define ALTURA			600
 
